@@ -47,4 +47,12 @@ input[type="submit"] {
   background: var(--light);
   margin-bottom: 5px;
   padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#todos-list li button {
+  background: firebrick;
+  color: var(--light);
+  cursor: pointer;
 }
