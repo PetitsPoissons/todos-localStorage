@@ -37,3 +37,14 @@ input[type="submit"] {
   color: var(--light);
   cursor: pointer;
 }
+
+#todos-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+#todos-list li {
+  background: var(--light);
+  margin-bottom: 5px;
+  padding: 10px;
+}
