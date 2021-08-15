@@ -22,6 +22,10 @@ function renderTodos() {
 function addTodo(event) {
   event.preventDefault();
   var newTodoText = newTodoInput.value;
+  if (newTodoText === '') {
+    alert('Please enter a todo');
+    return;
+  }
   todos.push(newTodoText);
   saveTodos();
   newTodoInput.value = '';
