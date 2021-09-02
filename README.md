@@ -4,7 +4,9 @@ A todo application using localStorage
 
 !['buildings'](https://picsum.photos/536/354)
 
-!['Example Rig Presets'](https://raw.githubusercontent.com/wiki/schroef/extra-image-list/images/extra-image-list.jpg?v26-09-2018)
+![The founding father][father]
 
-[[http://placekitten.com/g/200/300|alt=kittens]]
+[[http://placekitten.com/g/200/300]]
 [[https://picsum.photos/536/354|alt=kittens]]
+
+[father]: http://octodex.github.com/images/founding-father.jpg
